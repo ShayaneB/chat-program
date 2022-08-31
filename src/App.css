@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.main-content{
+  height: 30rem;
+  margin: 0.5rem;
+}
+
+.msg-input{
+  width: 92%;
+  margin: 1rem 0.4rem 1rem 0;
+  padding: 0.5rem;
+}
+
+button{
+  padding: 0.5rem;
+  font-weight: 700;
+}
+
+.main-content, .msg-input , button{
+    border: solid 5px black;
+}
+
+ul{
+  text-align: left;
+  list-style: none;
+}
+
+.message-list{
+  padding: 0.8rem;
+}
